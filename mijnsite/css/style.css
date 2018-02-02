@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+p {
+    font-size: 16px;
+}
+
+.navbar {
+    border: 0;
+    margin-bottom: 0;
+}
+
+.bg-1 {
+    background-color:#aeaeaf ;
+    color: #282828;
+}
+
+.bg-2 {
+    background-color: white ;
+    color: black ;
+}
+
+.bg-3 {
+    background-color: #303030;
+    color: white;
+}
+
+.onsgroepje {
+    margin-bottom: 20px;
+    height: 500px;
+    width:700px;
+}
+
+.margin {
+    margin-bottom: 58px;
+}
+
+.margin1 {
+    margin-bottom: 45px;
+}
